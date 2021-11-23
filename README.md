@@ -56,7 +56,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 
 ### 将订阅链接 base64 转码
 
-- https://tool.oschina.net/encrypt?type=3
+- https://neilwang543.github.io/mysite/
 
 ### 订阅地址修改
 
