@@ -54,10 +54,10 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 
 - [参考页面](https://github.com/wulabing/Xray_onekey)
 
-### 将订阅链接 base64 转码
+### 订阅链接 base64 转码
 
 - [https://neilwang543.github.io/mysite/](https://neilwang543.github.io/mysite/)
 
-### 订阅地址修改
+### 订阅地址
 
 - [https://github.com/neilwang543/subscribeUrl/blob/main/url.txt](https://github.com/neilwang543/subscribeUrl/blob/main/url.txt)
