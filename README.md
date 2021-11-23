@@ -37,13 +37,13 @@
 
 #### 修改 root 密码：
 
-```
+```bash
 sudo passwd
 ```
 
 #### 安装脚本：
 
-```
+```bash
 su root
 apt-get install wget
 wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
