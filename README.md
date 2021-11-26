@@ -60,4 +60,4 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 
 ### 订阅地址
 
-- [https://github.com/neilwang543/subscribeUrl/blob/main/url.txt](https://github.com/neilwang543/subscribeUrl/blob/main/url.txt)
+- [https://neilwang543.github.io/subscribeUrl/url.txt](https://neilwang543.github.io/subscribeUrl/url.txt)
